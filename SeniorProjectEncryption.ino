@@ -1,4 +1,5 @@
 //Encryption block for BEST project by JC Harding, Aki Miyake, David Liu
+//Case Western Reserve University, Fall 2021
 //based on https://github.com/suculent/thinx-aes-lib/tree/master/examples/simple
 
 #include "AESLib.h"
